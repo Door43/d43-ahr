@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ahr:home|Door43 (ahr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ahr|d43-ahr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ahr/archive/master.zip|d43-ahr.zip]]
+
+**Recent Changes**
+{{changes>ns = ahr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ahr|Ethnologue data]]
+
